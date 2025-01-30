@@ -31,7 +31,7 @@ This project was built as part of a **team effort**, with contributions from:
 - 🎨 **[Valentin COUBRONNE]** – Game Artist
 - 🎨 **[Louna GARCIA]** – Game Artist
 - 🕹️ **[Miya LOUSTALOT]** – Game Artist
-- 🎨 **[Valentin COUBRONNE]** – Game Artist
+- 🎨 **[Ludovic ROUSSELLE]** – Game Artist
 
 ## 📌 Status  
 
