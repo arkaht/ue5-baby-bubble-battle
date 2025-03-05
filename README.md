@@ -30,7 +30,7 @@ This project was built as part of a **team effort**, with contributions from:
 - 🎮 **[Arthur CATHELAIN]** – Programmer
 - 🎨 **[Valentin COUBRONNE]** – Game Artist
 - 🎨 **[Louna GARCIA]** – Game Artist
-- 🕹️ **[Miya LOUSTALOT]** – Game Artist
+- 🕹️ **[Miya LOUSTALOT]** – Game Designer, Programmer
 - 🎨 **[Ludovic ROUSSELLE]** – Game Artist
 
 ## 📌 Status  
